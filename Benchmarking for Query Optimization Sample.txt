@@ -1,0 +1,17 @@
+# BEFORE
+0.015
+0.00
+0.00
+
+Query Cost = 101.50
+Rows = 1000
+filtered =  1
+
+# AFTER
+0.000
+0.00
+0.00
+
+Query Cost = 0.35
+Rows = 1
+filtered =  5
